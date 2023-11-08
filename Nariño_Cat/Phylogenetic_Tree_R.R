@@ -1,0 +1,6 @@
+getwd()
+setwd("/home/usuario/Documents/Phylogeny_UIS/Nariño_Cat/Without_Outgroup")
+install.packages("ape")
+library(ape)
+tree <- read.tree("Alignment_Seqs_Ruiz-Garcia_et_al_2023.fasta.treefile")
+plot(tree)
