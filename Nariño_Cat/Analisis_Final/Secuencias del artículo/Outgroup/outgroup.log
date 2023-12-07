@@ -1,0 +1,1841 @@
+Script started on 2023-12-05 16:35:56-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="160" LINES="37"]
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ script SinOutgroup.logclear[Kmafft --reorder --op 5.0 --auto  '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Sin Outgroup/secuencias.fasta' > AlineamientoSinoutgroup.fasta[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7m'/home/usuario/Desktop/Analisis_Fina[27m[7ml[27m[7m/Secuencias del artículo/Outgroup/alineamientoOutgroup.fasta' [27m[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamientoOutgroup.fasta' > [7malineamiento_outgroup_SI.fasta[27malineamiento_outgroup_SI.fasta
+[?2004loutputhat23=16
+treein = 0
+compacttree = 0
+stacksize: 8192 kb
+generating a scoring matrix for nucleotide (dist=200) ... done
+All-to-all alignment.
+    0 / 52    1 / 52    2 / 52    3 / 52    4 / 52    5 / 52    6 / 52    7 / 52    8 / 52    9 / 52   10 / 52   11 / 52   12 / 52   13 / 52   14 / 52   15 / 52   16 / 52   17 / 52   18 / 52   19 / 52   20 / 52   21 / 52   22 / 52   23 / 52   24 / 52   25 / 52   26 / 52   27 / 52   28 / 52   29 / 52   30 / 52   31 / 52   32 / 52   33 / 52   34 / 52   35 / 52   36 / 52   37 / 52   38 / 52   39 / 52   40 / 52   41 / 52   42 / 52   43 / 52   44 / 52   45 / 52   46 / 52   47 / 52   48 / 52   49 / 52   50 / 52tbfast-pair (nuc) Version 7.520
+alg=L, model=DNA200 (2), 2.00 (6.00), -0.10 (-0.30), noshift, amax=0.0
+0 thread(s)
+
+outputhat23=16
+Loading 'hat3.seed' ... 
+done.
+Writing hat3 for iterative refinement
+generating a scoring matrix for nucleotide (dist=200) ... done
+Gap Penalty = -5.00, +0.00, +0.00
+tbutree = 1, compacttree = 0
+Constructing a UPGMA tree ... 
+    0 / 52   10 / 52   20 / 52   30 / 52   40 / 52   50 / 52
+done.
+
+Progressive alignment ... 
+STEP     1 /51 STEP     2 /51 STEP     3 /51 STEP     4 /51 STEP     5 /51 STEP     6 /51 STEP     7 /51 STEP     8 /51 STEP     9 /51 STEP    10 /51 STEP    11 /51 STEP    12 /51 STEP    13 /51 STEP    14 /51 STEP    15 /51 STEP    16 /51 STEP    17 /51 STEP    18 /51 STEP    19 /51 STEP    20 /51 STEP    21 /51 STEP    22 /51 STEP    23 /51 STEP    24 /51 STEP    25 /51 STEP    26 /51 STEP    27 /51 STEP    28 /51 STEP    29 /51 STEP    30 /51 STEP    31 /51 STEP    32 /51 STEP    33 /51 STEP    34 /51 STEP    35 /51 STEP    36 /51 STEP    37 /51 STEP    38 /51 STEP    39 /51 STEP    40 /51 STEP    41 /51 STEP    42 /51 STEP    43 /51 STEP    44 /51 STEP    45 /51 STEP    46 /51 STEP    47 /51 STEP    48 /51 STEP    49 /51 STEP    50 /51 STEP    51 /51 
+done.
+tbfast (nuc) Version 7.520
+alg=A, model=DNA200 (2), 5.00 (15.00), -0.00 (-0.00), noshift, amax=0.0
+1 thread(s)
+
+minimumweight = 0.000010
+autosubalignment = 0.000000
+nthread = 0
+randomseed = 0
+blosum 62 / kimura 200
+poffset = 0
+niter = 16
+sueff_global = 0.100000
+nadd = 16
+Loading 'hat3' ... done.
+generating a scoring matrix for nucleotide (dist=200) ... done
+
+    0 / 52   10 / 52   20 / 52   30 / 52   40 / 52   50 / 52
+Segment   1/  1    1- 368
+STEP 001-001-0  identical.   STEP 001-001-1  identical.   STEP 001-002-0  identical.   STEP 001-002-1  identical.   STEP 001-003-0  identical.   STEP 001-003-1  identical.   STEP 001-004-0  identical.   STEP 001-004-1  identical.   STEP 001-005-0  identical.   STEP 001-005-1  identical.   STEP 001-006-0  identical.   STEP 001-006-1  identical.   STEP 001-007-0  identical.   STEP 001-007-1  identical.   STEP 001-008-0  identical.   STEP 001-008-1  identical.   STEP 001-009-0  identical.   STEP 001-009-1  identical.   STEP 001-010-0  identical.   STEP 001-010-1  identical.   STEP 001-011-0  identical.   STEP 001-011-1  identical.   STEP 001-012-0  identical.   STEP 001-012-1  identical.   STEP 001-013-0  identical.   STEP 001-013-1  identical.   STEP 001-014-0  identical.   STEP 001-014-1  identical.   STEP 001-015-0  identical.   STEP 001-015-1  identical.   STEP 001-016-0  identical.   STEP 001-016-1  identical.   STEP 001-017-0  identical.   STEP 001-017-1  identical.   STEP 001-018-0  identical.   STEP 001-018-1  identical.   STEP 001-019-0  identical.   STEP 001-019-1  identical.   STEP 001-020-0  identical.   STEP 001-020-1  identical.   STEP 001-021-0  identical.   STEP 001-021-1  identical.   STEP 001-022-0  identical.   STEP 001-022-1  identical.   STEP 001-023-0  identical.   STEP 001-023-1  identical.   STEP 001-024-0  identical.   STEP 001-024-1  identical.   STEP 001-025-0  identical.   STEP 001-025-1  identical.   STEP 001-026-0  identical.   STEP 001-026-1  identical.   STEP 001-027-0  identical.   STEP 001-027-1  identical.   STEP 001-028-0  identical.   STEP 001-028-1  identical.   STEP 001-029-0  identical.   STEP 001-029-1  identical.   STEP 001-030-0  identical.   STEP 001-030-1  identical.   STEP 001-031-0  identical.   STEP 001-031-1  identical.   STEP 001-032-0  identical.   STEP 001-032-1  identical.   STEP 001-033-0  identical.   STEP 001-033-1  identical.   STEP 001-034-0  identical.   STEP 001-034-1  identical.   STEP 001-035-0  identical.   STEP 001-035-1  identical.   STEP 001-036-0  identical.   STEP 001-036-1  identical.   STEP 001-037-0  identical.   STEP 001-037-1  identical.   STEP 001-038-0  identical.   STEP 001-038-1  identical.   STEP 001-039-0  identical.   STEP 001-039-1  identical.   STEP 001-040-0  identical.   STEP 001-040-1  identical.   STEP 001-041-0  identical.   STEP 001-041-1  identical.   STEP 001-042-0  identical.   STEP 001-042-1  identical.   STEP 001-043-0  identical.   STEP 001-043-1  identical.   STEP 001-044-0  identical.   STEP 001-044-1  identical.   STEP 001-045-0  identical.   STEP 001-045-1  identical.   STEP 001-046-0  identical.   STEP 001-046-1  identical.   STEP 001-047-0  identical.   STEP 001-047-1  identical.   STEP 001-048-0  identical.   STEP 001-048-1  identical.   STEP 001-049-0  identical.   STEP 001-049-1  identical.   STEP 001-050-0  identical.   STEP 001-050-1  identical.   STEP 001-051-1  identical.   STEP 002-051-1  identical.   STEP 002-050-0  identical.   STEP 002-050-1  identical.   
+Converged.
+
+done
+dvtditr (nuc) Version 7.520
+alg=A, model=DNA200 (2), 5.00 (15.00), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+
+Strategy:
+ L-INS-i (Probably most accurate, very slow)
+ Iterative refinement method (<16) with LOCAL pairwise alignment information
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s [7m'/home/usuario/Desktop/Analisis_Final/Secuencias del artícu[27m[7ml[27m[7mo/Outgroup/alineamiento_outgroup_SI.fasta' [27m[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [C[C[C[C[C[C[C[C[C[C'/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP -bb [C[1@ [C[1@ [C[1P[1P[1P[C[1P [1P [K[K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP --b[K[Kbb 100[K[K[K[K[K[K[K[K[K[K[K[K[K[K-m MFP
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m MFP
+Seed:    195523 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 16:39:25 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+NOTE: ModelFinder requires 1 MB RAM!
+ModelFinder will test 286 DNA models (sample size: 367) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  JC            1472.192     73  3090.385     3127.258     3375.476
+  2  JC+I          1468.874     74  3085.749     3123.763     3374.746
+  3  JC+G4         1469.247     74  3086.494     3124.508     3375.491
+  4  JC+I+G4       1468.896     75  3087.791     3126.967     3380.693
+  5  JC+R2         1469.082     75  3088.164     3127.339     3381.066
+  6  JC+R3         1469.081     77  3092.162     3133.726     3392.874
+ 14  F81+F         1468.663     76  3089.325     3129.684     3386.133
+ 15  F81+F+I       1465.570     77  3085.139     3126.703     3385.852
+ 16  F81+F+G4      1465.856     77  3085.712     3127.276     3386.425
+ 17  F81+F+I+G4    1465.609     78  3087.217     3130.009     3391.836
+ 18  F81+F+R2      1465.720     78  3087.440     3130.232     3392.058
+ 19  F81+F+R3      1465.718     80  3091.436     3136.751     3403.865
+ 27  K2P           1455.145     74  3058.291     3096.304     3347.287
+ 28  K2P+I         1451.407     75  3052.814     3091.989     3345.716
+ 29  K2P+G4        1451.806     75  3053.612     3092.787     3346.514
+ 30  K2P+I+G4      1451.407     76  3054.815     3095.173     3351.622
+ 31  K2P+R2        1451.643     76  3055.286     3095.644     3352.093
+ 32  K2P+R3        1451.643     78  3059.285     3102.077     3363.903
+ 40  HKY+F         1450.787     77  3055.574     3097.138     3356.287
+ 41  HKY+F+I       1447.277     78  3050.555     3093.346     3355.173
+ 42  HKY+F+G4      1447.455     78  3050.909     3093.701     3355.527
+ 43  HKY+F+I+G4    1447.283     79  3052.565     3096.607     3361.089
+ 44  HKY+F+R2      1447.352     79  3052.704     3096.746     3361.228
+ 45  HKY+F+R3      1447.352     81  3056.703     3103.314     3373.038
+ 53  TNe           1452.654     75  3055.308     3094.483     3348.210
+ 54  TNe+I         1448.935     76  3049.870     3090.229     3346.677
+ 55  TNe+G4        1449.494     76  3050.988     3091.347     3347.795
+ 56  TNe+I+G4      1448.937     77  3051.873     3093.437     3352.586
+ 57  TNe+R2        1449.271     77  3052.542     3094.106     3353.255
+ 58  TNe+R3        1449.269     79  3056.539     3100.580     3365.062
+ 66  TN+F          1447.290     78  3050.580     3093.372     3355.198
+ 67  TN+F+I        1443.678     79  3045.356     3089.398     3353.880
+ 68  TN+F+G4       1444.116     79  3046.232     3090.273     3354.755
+ 69  TN+F+I+G4     1443.683     80  3047.365     3092.680     3359.794
+ 70  TN+F+R2       1443.930     80  3047.861     3093.175     3360.290
+ 71  TN+F+R3       1443.929     82  3051.858     3099.787     3372.098
+ 79  K3P           1453.020     75  3056.040     3095.215     3348.942
+ 80  K3P+I         1449.327     76  3050.654     3091.013     3347.461
+ 81  K3P+G4        1449.678     76  3051.355     3091.714     3348.163
+ 82  K3P+I+G4      1449.326     77  3052.653     3094.217     3353.366
+ 83  K3P+R2        1449.525     77  3053.050     3094.614     3353.762
+ 84  K3P+R3        1449.524     79  3057.048     3101.089     3365.571
+ 92  K3Pu+F        1448.739     78  3053.478     3096.270     3358.096
+ 93  K3Pu+F+I      1445.330     79  3048.660     3092.701     3357.183
+ 94  K3Pu+F+G4     1445.449     79  3048.898     3092.940     3357.422
+ 95  K3Pu+F+I+G4   1445.337     80  3050.674     3095.989     3363.103
+ 96  K3Pu+F+R2     1445.362     80  3050.724     3096.039     3363.153
+ 97  K3Pu+F+R3     1445.362     82  3054.723     3102.653     3374.963
+105  TPM2+F        1448.747     78  3053.493     3096.285     3358.111
+106  TPM2+F+I      1445.294     79  3048.588     3092.629     3357.111
+107  TPM2+F+G4     1445.293     79  3048.585     3092.627     3357.109
+108  TPM2+F+I+G4   1445.302     80  3050.604     3095.918     3363.033
+109  TPM2+F+R2     1445.239     80  3050.479     3095.793     3362.908
+110  TPM2+F+R3     1445.239     82  3054.478     3102.407     3374.718
+118  TPM2u+F       1448.747     78  3053.494     3096.286     3358.112
+119  TPM2u+F+I     1445.294     79  3048.588     3092.630     3357.111
+120  TPM2u+F+G4    1445.293     79  3048.585     3092.627     3357.109
+121  TPM2u+F+I+G4  1445.301     80  3050.601     3095.916     3363.030
+122  TPM2u+F+R2    1445.239     80  3050.478     3095.793     3362.907
+123  TPM2u+F+R3    1445.238     82  3054.477     3102.406     3374.716
+131  TPM3+F        1450.760     78  3057.520     3100.312     3362.138
+132  TPM3+F+I      1447.228     79  3052.457     3096.499     3360.980
+133  TPM3+F+G4     1447.405     79  3052.810     3096.852     3361.334
+134  TPM3+F+I+G4   1447.229     80  3054.459     3099.774     3366.888
+135  TPM3+F+R2     1447.300     80  3054.600     3099.915     3367.029
+136  TPM3+F+R3     1447.299     82  3058.598     3106.528     3378.838
+144  TPM3u+F       1450.760     78  3057.521     3100.313     3362.139
+145  TPM3u+F+I     1447.228     79  3052.457     3096.499     3360.980
+146  TPM3u+F+G4    1447.405     79  3052.810     3096.852     3361.334
+147  TPM3u+F+I+G4  1447.229     80  3054.459     3099.773     3366.888
+148  TPM3u+F+R2    1447.300     80  3054.599     3099.914     3367.028
+149  TPM3u+F+R3    1447.299     82  3058.598     3106.528     3378.838
+157  TIMe          1450.533     76  3053.065     3093.424     3349.873
+158  TIMe+I        1446.861     77  3047.722     3089.286     3348.435
+159  TIMe+G4       1447.370     77  3048.739     3090.303     3349.452
+160  TIMe+I+G4     1446.862     78  3049.723     3092.515     3354.342
+161  TIMe+R2       1447.158     78  3050.316     3093.108     3354.935
+162  TIMe+R3       1447.157     80  3054.315     3099.629     3366.744
+170  TIM+F         1445.238     79  3048.477     3092.519     3357.000
+171  TIM+F+I       1441.730     80  3043.459     3088.774     3355.888
+172  TIM+F+G4      1442.102     80  3044.204     3089.519     3356.633
+173  TIM+F+I+G4    1441.733     81  3045.467     3092.077     3361.801
+174  TIM+F+R2      1441.935     81  3045.869     3092.480     3362.203
+175  TIM+F+R3      1441.934     83  3049.867     3099.139     3374.012
+183  TIM2e         1452.063     76  3056.126     3096.485     3352.933
+184  TIM2e+I       1448.474     77  3050.948     3092.512     3351.661
+185  TIM2e+G4      1448.971     77  3051.942     3093.506     3352.655
+186  TIM2e+I+G4    1448.476     78  3052.951     3095.743     3357.569
+187  TIM2e+R2      1448.761     78  3053.521     3096.313     3358.140
+188  TIM2e+R3      1448.759     80  3057.518     3102.832     3369.947
+196  TIM2+F        1445.231     79  3048.462     3092.503     3356.985
+197  TIM2+F+I      1441.712     80  3043.424     3088.739     3355.853
+198  TIM2+F+G4     1441.986     80  3043.971     3089.286     3356.400
+199  TIM2+F+I+G4   1441.716     81  3045.432     3092.043     3361.767
+200  TIM2+F+R2     1441.850     81  3045.699     3092.310     3362.034
+201  TIM2+F+R3     1441.848     83  3049.697     3098.969     3373.842
+209  TIM3e         1452.635     76  3057.270     3097.628     3354.077
+210  TIM3e+I       1448.900     77  3051.800     3093.364     3352.513
+211  TIM3e+G4      1449.461     77  3052.922     3094.486     3353.635
+212  TIM3e+I+G4    1448.902     78  3053.804     3096.596     3358.423
+213  TIM3e+R2      1449.231     78  3054.462     3097.254     3359.080
+214  TIM3e+R3      1449.228     80  3058.457     3103.772     3370.886
+222  TIM3+F        1447.267     79  3052.535     3096.576     3361.058
+223  TIM3+F+I      1443.636     80  3047.272     3092.586     3359.700
+224  TIM3+F+G4     1444.075     80  3048.150     3093.465     3360.579
+225  TIM3+F+I+G4   1443.637     81  3049.274     3095.884     3365.608
+226  TIM3+F+R2     1443.884     81  3049.769     3096.379     3366.103
+227  TIM3+F+R3     1443.882     83  3053.764     3103.036     3377.909
+235  TVMe          1452.356     77  3058.712     3100.276     3359.425
+236  TVMe+I        1448.771     78  3053.543     3096.335     3358.161
+237  TVMe+G4       1449.058     78  3054.115     3096.907     3358.733
+238  TVMe+I+G4     1448.772     79  3055.543     3099.585     3364.067
+239  TVMe+R2       1448.917     79  3055.833     3099.875     3364.357
+240  TVMe+R3       1448.915     81  3059.830     3106.441     3376.165
+248  TVM+F         1446.568     80  3053.137     3098.451     3365.566
+249  TVM+F+I       1443.121     81  3048.242     3094.852     3364.576
+250  TVM+F+G4      1443.066     81  3048.132     3094.742     3364.466
+251  TVM+F+I+G4    1443.121     82  3050.242     3098.172     3370.482
+252  TVM+F+R2      1443.030     82  3050.059     3097.989     3370.299
+253  TVM+F+R3      1443.029     84  3054.059     3104.697     3382.109
+261  SYM           1449.875     78  3055.750     3098.542     3360.368
+262  SYM+I         1446.282     79  3050.565     3094.607     3359.089
+263  SYM+G4        1446.732     79  3051.463     3095.505     3359.987
+264  SYM+I+G4      1446.283     80  3052.565     3097.880     3364.994
+265  SYM+R2        1446.534     80  3053.068     3098.383     3365.497
+266  SYM+R3        1446.532     82  3057.064     3104.994     3377.304
+274  GTR+F         1443.063     81  3048.126     3094.736     3364.460
+275  GTR+F+I       1439.560     82  3043.120     3091.049     3363.360
+276  GTR+F+G4      1439.780     82  3043.561     3091.490     3363.800
+277  GTR+F+I+G4    1439.564     83  3045.127     3094.399     3369.272
+278  GTR+F+R2      1439.660     83  3045.320     3094.592     3369.465
+279  GTR+F+R3      1439.659     85  3049.317     3101.346     3381.273
+Akaike Information Criterion:           GTR+F+I
+Corrected Akaike Information Criterion: TIM2+F+I
+Bayesian Information Criterion:         K2P+I
+Best-fit model: K2P+I chosen according to BIC
+
+All model information printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.model.gz
+CPU time for ModelFinder: 0.355 seconds (0h:0m:0s)
+Wall-clock time for ModelFinder: 0.355 seconds (0h:0m:0s)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -1468.967
+2. Current log-likelihood: -1451.445
+Optimal log-likelihood: -1451.407
+Rate parameters:  A-C: 1.00000  A-G: 2.61084  A-T: 1.00000  C-G: 1.00000  C-T: 2.61084  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.321
+Parameters optimization took 2 rounds (0.002 sec)
+Computing ML distances based on estimated model parameters... 0.002 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -1457.527
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.058 second
+Computing log-likelihood of 98 initial trees ... 0.070 seconds
+Current best score: -1451.406
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -1451.406
+BETTER TREE FOUND at iteration 4: -1451.406
+BETTER TREE FOUND at iteration 7: -1451.406
+BETTER TREE FOUND at iteration 8: -1451.406
+BETTER TREE FOUND at iteration 9: -1451.406
+Iteration 10 / LogL: -1451.407 / Time: 0h:0m:0s
+Iteration 20 / LogL: -1451.469 / Time: 0h:0m:0s
+Finish initializing candidate tree set (20)
+Current best tree score: -1451.406 / CPU time: 0.157
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -1466.633 / Time: 0h:0m:0s (0h:0m:0s left)
+BETTER TREE FOUND at iteration 33: -1451.406
+Iteration 40 / LogL: -1451.466 / Time: 0h:0m:0s (0h:0m:0s left)
+BETTER TREE FOUND at iteration 41: -1451.406
+BETTER TREE FOUND at iteration 49: -1451.406
+Iteration 50 / LogL: -1451.406 / Time: 0h:0m:0s (0h:0m:0s left)
+BETTER TREE FOUND at iteration 57: -1451.406
+Iteration 60 / LogL: -1454.164 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 70 / LogL: -1452.169 / Time: 0h:0m:0s (0h:0m:0s left)
+BETTER TREE FOUND at iteration 77: -1451.405
+Iteration 80 / LogL: -1451.406 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 90 / LogL: -1451.468 / Time: 0h:0m:0s (0h:0m:0s left)
+BETTER TREE FOUND at iteration 94: -1451.405
+Iteration 100 / LogL: -1451.468 / Time: 0h:0m:0s (0h:0m:0s left)
+BETTER TREE FOUND at iteration 106: -1451.405
+Iteration 110 / LogL: -1451.744 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 120 / LogL: -1451.468 / Time: 0h:0m:0s (0h:0m:0s left)
+BETTER TREE FOUND at iteration 122: -1451.405
+Iteration 130 / LogL: -1451.405 / Time: 0h:0m:0s (0h:0m:0s left)
+BETTER TREE FOUND at iteration 134: -1451.405
+Iteration 140 / LogL: -1469.301 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 150 / LogL: -1451.405 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 160 / LogL: -1451.406 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 170 / LogL: -1455.822 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 180 / LogL: -1451.405 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 190 / LogL: -1462.315 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 200 / LogL: -1451.806 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 210 / LogL: -1451.468 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 220 / LogL: -1451.405 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 230 / LogL: -1454.835 / Time: 0h:0m:1s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 235 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -1451.405
+Optimal log-likelihood: -1451.405
+Rate parameters:  A-C: 1.00000  A-G: 2.61166  A-T: 1.00000  C-G: 1.00000  C-T: 2.61166  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.322
+Parameters optimization took 1 rounds (0.001 sec)
+BEST SCORE FOUND : -1451.405
+Total tree length: 0.468
+
+Total number of iterations: 235
+CPU time used for tree search: 1.446 sec (0h:0m:1s)
+Wall-clock time used for tree search: 1.446 sec (0h:0m:1s)
+Total CPU time used: 1.456 sec (0h:0m:1s)
+Total wall-clock time used: 1.456 sec (0h:0m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.iqtree
+  Maximum-likelihood tree:       /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.treefile
+  Likelihood distances:          /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.mldist
+  Screen log file:               /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.log
+
+Date and Time: Tue Dec  5 16:39:27 2023
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m MFP[K[K[K[K[K[K[7mK2P+I[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CK2P+I
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -bb 10000[C[1@ [1@-[1@m[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -o [7m>NC_028302.1_León isolate PLE mitochondrion, complete genome[27m>NC_028302.1_León isolate PLE mitochondrion, complete genome
+[?2004lCheckpoint (/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.ckp.gz) indicates that a previous run successfully finished
+Use `-redo` option if you really want to redo the analysis and overwrite all output files.
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -o >NC_028302.1_León isolate PLE mitochondrion, complete genome[1@"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"
+[?2004lCheckpoint (/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.ckp.gz) indicates that a previous run successfully finished
+Use `-redo` option if you really want to redo the analysis and overwrite all output files.
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [K]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -o ">NC_028302.1_León isolate PLE mitochondrion, complete genome"[C[1@ [1@-[1@r[1@e[1@d[1@o
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o >NC_028302.1_León isolate PLE mitochondrion, complete genome
+Seed:    457166 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 16:44:49 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... ERROR: File not found /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o ">NC_028302.1_León isolate PLE mitochondrion, complete genome"
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o >NC_028302.1_León isolate PLE mitochondrion, complete genome
+Seed:    193032 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 16:45:46 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+ERROR: Alignment does not have specified outgroup taxon >NC_028302.1_León isolate PLE mitochondrion
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o ">NC_028302.1_León isolate PLE mitochondrion, complete genome"[1Pe"[1Pe"[1Pe"[1P"[1Pe"[1Pe"[1P"[1Pe"[1P"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1P"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1P"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1Pe"[1P"[7m>NC_028302.1_León[27m">NC_028302.1_León"
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o >NC_028302.1_León
+Seed:    250768 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 16:46:40 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+ERROR: Alignment does not have specified outgroup taxon >NC_028302.1_León
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o ">NC_028302.1_León"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[7mNC_028302.1_Le__n[27m"NC_028302.1_Le__n"
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o NC_028302.1_Le__n
+Seed:    232920 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 16:47:35 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.000 seconds
+Generating 10000 samples for ultrafast bootstrap (seed: 232920)...
+
+NOTE: 4 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -1508.761
+2. Current log-likelihood: -1457.095
+Optimal log-likelihood: -1457.051
+Rate parameters:  A-C: 1.00000  A-G: 2.64399  A-T: 1.00000  C-G: 1.00000  C-T: 2.64399  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.332
+Parameters optimization took 2 rounds (0.003 sec)
+Computing ML distances based on estimated model parameters... 0.002 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -1457.494
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.060 second
+Computing log-likelihood of 98 initial trees ... 0.073 seconds
+Current best score: -1451.416
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -1451.406
+BETTER TREE FOUND at iteration 2: -1451.406
+Iteration 10 / LogL: -1451.406 / Time: 0h:0m:0s
+Iteration 20 / LogL: -1451.406 / Time: 0h:0m:0s
+Finish initializing candidate tree set (20)
+Current best tree score: -1451.406 / CPU time: 0.422
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+BETTER TREE FOUND at iteration 26: -1451.406
+Iteration 30 / LogL: -1451.406 / Time: 0h:0m:0s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 36: -1451.406
+Iteration 40 / LogL: -1451.468 / Time: 0h:0m:1s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 46: -1451.406
+Iteration 50 / LogL: -1455.822 / Time: 0h:0m:1s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1480.045
+Iteration 60 / LogL: -1451.406 / Time: 0h:0m:2s (0h:0m:3s left)
+Iteration 70 / LogL: -1451.406 / Time: 0h:0m:3s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 77: -1451.406
+Iteration 80 / LogL: -1451.468 / Time: 0h:0m:3s (0h:0m:4s left)
+Iteration 90 / LogL: -1451.469 / Time: 0h:0m:3s (0h:0m:3s left)
+Iteration 100 / LogL: -1451.743 / Time: 0h:0m:4s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1481.874
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.987
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+BETTER TREE FOUND at iteration 106: -1451.406
+Iteration 110 / LogL: -1451.406 / Time: 0h:0m:5s (0h:0m:4s left)
+Iteration 120 / LogL: -1454.807 / Time: 0h:0m:5s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 123: -1451.405
+Iteration 130 / LogL: -1451.406 / Time: 0h:0m:6s (0h:0m:4s left)
+Iteration 140 / LogL: -1454.163 / Time: 0h:0m:6s (0h:0m:3s left)
+Iteration 150 / LogL: -1454.163 / Time: 0h:0m:6s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1484.079
+Iteration 160 / LogL: -1451.406 / Time: 0h:0m:7s (0h:0m:3s left)
+Iteration 170 / LogL: -1457.095 / Time: 0h:0m:8s (0h:0m:2s left)
+Iteration 180 / LogL: -1454.869 / Time: 0h:0m:8s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 189: -1451.405
+Iteration 190 / LogL: -1576.420 / Time: 0h:0m:9s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 196: -1451.405
+Iteration 200 / LogL: -1451.804 / Time: 0h:0m:9s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -1484.250
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.980
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+BETTER TREE FOUND at iteration 207: -1451.405
+Iteration 210 / LogL: -1458.251 / Time: 0h:0m:10s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 214: -1451.405
+Iteration 220 / LogL: -1493.084 / Time: 0h:0m:10s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 227: -1451.405
+Iteration 230 / LogL: -1451.467 / Time: 0h:0m:11s (0h:0m:4s left)
+Iteration 240 / LogL: -1451.405 / Time: 0h:0m:11s (0h:0m:4s left)
+Iteration 250 / LogL: -1471.244 / Time: 0h:0m:12s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1484.250
+BETTER TREE FOUND at iteration 258: -1451.405
+Iteration 260 / LogL: -1451.405 / Time: 0h:0m:13s (0h:0m:4s left)
+Iteration 270 / LogL: -1451.405 / Time: 0h:0m:13s (0h:0m:4s left)
+Iteration 280 / LogL: -1451.468 / Time: 0h:0m:13s (0h:0m:3s left)
+Iteration 290 / LogL: -1451.468 / Time: 0h:0m:14s (0h:0m:3s left)
+Iteration 300 / LogL: -1455.822 / Time: 0h:0m:14s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -1484.415
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.978
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+BETTER TREE FOUND at iteration 302: -1451.405
+Iteration 310 / LogL: -1451.406 / Time: 0h:0m:15s (0h:0m:4s left)
+UPDATE BEST LOG-LIKELIHOOD: -1451.405
+Iteration 320 / LogL: -1451.468 / Time: 0h:0m:16s (0h:0m:4s left)
+Iteration 330 / LogL: -1451.405 / Time: 0h:0m:16s (0h:0m:3s left)
+Iteration 340 / LogL: -1489.957 / Time: 0h:0m:17s (0h:0m:3s left)
+Iteration 350 / LogL: -1453.724 / Time: 0h:0m:17s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -1484.415
+Iteration 360 / LogL: -1453.911 / Time: 0h:0m:18s (0h:0m:2s left)
+Iteration 370 / LogL: -1451.405 / Time: 0h:0m:19s (0h:0m:1s left)
+BETTER TREE FOUND at iteration 373: -1451.405
+Iteration 380 / LogL: -1451.405 / Time: 0h:0m:19s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 386: -1451.405
+Iteration 390 / LogL: -1451.406 / Time: 0h:0m:20s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 393: -1451.405
+Iteration 400 / LogL: -1451.405 / Time: 0h:0m:20s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -1485.319
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.987
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 410 / LogL: -1451.468 / Time: 0h:0m:21s (0h:0m:4s left)
+Iteration 420 / LogL: -1454.163 / Time: 0h:0m:21s (0h:0m:4s left)
+Iteration 430 / LogL: -1451.405 / Time: 0h:0m:22s (0h:0m:3s left)
+Iteration 440 / LogL: -1451.405 / Time: 0h:0m:22s (0h:0m:3s left)
+Iteration 450 / LogL: -1451.405 / Time: 0h:0m:23s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -1485.319
+Iteration 460 / LogL: -1451.405 / Time: 0h:0m:24s (0h:0m:2s left)
+Iteration 470 / LogL: -1451.467 / Time: 0h:0m:24s (0h:0m:1s left)
+BETTER TREE FOUND at iteration 471: -1451.405
+BETTER TREE FOUND at iteration 472: -1451.405
+Iteration 480 / LogL: -1451.405 / Time: 0h:0m:25s (0h:0m:4s left)
+Iteration 490 / LogL: -1456.582 / Time: 0h:0m:25s (0h:0m:4s left)
+Iteration 500 / LogL: -1451.467 / Time: 0h:0m:26s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1485.319
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.993
+BETTER TREE FOUND at iteration 503: -1451.404
+Iteration 510 / LogL: -1455.821 / Time: 0h:0m:27s (0h:0m:5s left)
+Iteration 520 / LogL: -1464.227 / Time: 0h:0m:27s (0h:0m:4s left)
+Iteration 530 / LogL: -1451.405 / Time: 0h:0m:28s (0h:0m:3s left)
+Iteration 540 / LogL: -1451.467 / Time: 0h:0m:28s (0h:0m:3s left)
+Iteration 550 / LogL: -1580.372 / Time: 0h:0m:29s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -1486.400
+Iteration 560 / LogL: -1451.467 / Time: 0h:0m:30s (0h:0m:2s left)
+Iteration 570 / LogL: -1451.805 / Time: 0h:0m:30s (0h:0m:1s left)
+Iteration 580 / LogL: -1451.405 / Time: 0h:0m:31s (0h:0m:1s left)
+Iteration 590 / LogL: -1451.405 / Time: 0h:0m:32s (0h:0m:0s left)
+Iteration 600 / LogL: -1454.163 / Time: 0h:0m:32s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -1486.400
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.994
+TREE SEARCH COMPLETED AFTER 604 ITERATIONS / Time: 0h:0m:33s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -1451.404
+Optimal log-likelihood: -1451.404
+Rate parameters:  A-C: 1.00000  A-G: 2.61177  A-T: 1.00000  C-G: 1.00000  C-T: 2.61177  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.322
+Parameters optimization took 1 rounds (0.001 sec)
+BEST SCORE FOUND : -1451.404
+Creating bootstrap support values...
+Split supports printed to NEXUS file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex
+Total tree length: 0.468
+
+Total number of iterations: 604
+CPU time used for tree search: 33.138 sec (0h:0m:33s)
+Wall-clock time used for tree search: 33.197 sec (0h:0m:33s)
+Total CPU time used: 33.635 sec (0h:0m:33s)
+Total wall-clock time used: 33.698 sec (0h:0m:33s)
+
+Computing bootstrap consensus tree...
+Reading input file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex...
+38 taxa and 636 splits.
+Consensus tree written to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+Reading input trees file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+Log-likelihood of consensus tree: -1451.406
+
+Analysis results written to: 
+  IQ-TREE report:                /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.iqtree
+  Maximum-likelihood tree:       /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.treefile
+  Likelihood distances:          /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex
+  Consensus tree:                /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+  Screen log file:               /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.log
+
+Date and Time: Tue Dec  5 16:48:09 2023
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ figtree [7m'/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/a[27m[7ml[27m[7mineamiento_outgroup_SI.fasta.contree' [27m[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [C[C[C[C[C[C[C[C'/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree' 
+[?2004ljavax.swing.UIManager$LookAndFeelInfo[Metal javax.swing.plaf.metal.MetalLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[Nimbus javax.swing.plaf.nimbus.NimbusLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[CDE/Motif com.sun.java.swing.plaf.motif.MotifLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[GTK+ com.sun.java.swing.plaf.gtk.GTKLookAndFeel]
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ figtree '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree' [A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o "NC_028302.1_Le__n"[C "[7mNC_016470.1_Puma[27mNC_016470.1_Puma"
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o NC_028302.1_Le__n NC_016470.1_Puma
+Seed:    158464 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 17:32:40 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+Reading input tree file NC_016470.1_Puma ...ERROR: File not found or incorrect input, pls check it again.NC_016470.1_Puma
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o "NC_028302.1_Le__n" "NC_016470.1_Puma"-"NC_016470.1_Puma"p"NC_016470.1_Puma"[1P"NC_016470.1_Puma"o"NC_016470.1_Puma" "NC_016470.1_Puma"
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o NC_028302.1_Le__n -o NC_016470.1_Puma
+Seed:    101610 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 17:32:54 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.000 seconds
+Generating 10000 samples for ultrafast bootstrap (seed: 101610)...
+
+NOTE: 4 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -1509.736
+2. Current log-likelihood: -1457.504
+Optimal log-likelihood: -1457.456
+Rate parameters:  A-C: 1.00000  A-G: 2.64437  A-T: 1.00000  C-G: 1.00000  C-T: 2.64437  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.332
+Parameters optimization took 2 rounds (0.003 sec)
+Computing ML distances based on estimated model parameters... 0.002 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -1457.494
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.059 second
+Computing log-likelihood of 98 initial trees ... 0.071 seconds
+Current best score: -1451.416
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -1451.406
+BETTER TREE FOUND at iteration 2: -1451.406
+BETTER TREE FOUND at iteration 6: -1451.406
+Iteration 10 / LogL: -1451.468 / Time: 0h:0m:0s
+Iteration 20 / LogL: -1451.469 / Time: 0h:0m:0s
+Finish initializing candidate tree set (20)
+Current best tree score: -1451.406 / CPU time: 0.457
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+BETTER TREE FOUND at iteration 25: -1451.406
+Iteration 30 / LogL: -1451.406 / Time: 0h:0m:0s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 37: -1451.406
+Iteration 40 / LogL: -1451.468 / Time: 0h:0m:1s (0h:0m:3s left)
+Iteration 50 / LogL: -1451.468 / Time: 0h:0m:1s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1474.677
+BETTER TREE FOUND at iteration 58: -1451.406
+BETTER TREE FOUND at iteration 60: -1451.406
+Iteration 60 / LogL: -1451.406 / Time: 0h:0m:2s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 62: -1451.406
+Iteration 70 / LogL: -1451.406 / Time: 0h:0m:3s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 76: -1451.406
+BETTER TREE FOUND at iteration 79: -1451.405
+Iteration 80 / LogL: -1451.406 / Time: 0h:0m:3s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 88: -1451.405
+Iteration 90 / LogL: -1451.406 / Time: 0h:0m:3s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 94: -1451.405
+Iteration 100 / LogL: -1584.534 / Time: 0h:0m:4s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -1478.128
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.971
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+BETTER TREE FOUND at iteration 101: -1451.405
+Iteration 110 / LogL: -1451.467 / Time: 0h:0m:5s (0h:0m:4s left)
+Iteration 120 / LogL: -1451.469 / Time: 0h:0m:5s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 127: -1451.405
+Iteration 130 / LogL: -1451.405 / Time: 0h:0m:6s (0h:0m:4s left)
+Iteration 140 / LogL: -1456.582 / Time: 0h:0m:6s (0h:0m:4s left)
+Iteration 150 / LogL: -1451.406 / Time: 0h:0m:7s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1479.155
+Iteration 160 / LogL: -1451.405 / Time: 0h:0m:7s (0h:0m:3s left)
+Iteration 170 / LogL: -1451.405 / Time: 0h:0m:8s (0h:0m:2s left)
+Iteration 180 / LogL: -1452.230 / Time: 0h:0m:8s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 185: -1451.405
+Iteration 190 / LogL: -1451.405 / Time: 0h:0m:9s (0h:0m:4s left)
+Iteration 200 / LogL: -1451.467 / Time: 0h:0m:9s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -1482.836
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.994
+BETTER TREE FOUND at iteration 204: -1451.405
+Iteration 210 / LogL: -1451.406 / Time: 0h:0m:10s (0h:0m:4s left)
+Iteration 220 / LogL: -1451.406 / Time: 0h:0m:11s (0h:0m:4s left)
+Iteration 230 / LogL: -1451.405 / Time: 0h:0m:11s (0h:0m:3s left)
+Iteration 240 / LogL: -1451.405 / Time: 0h:0m:12s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 242: -1451.405
+Iteration 250 / LogL: -1451.405 / Time: 0h:0m:12s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -1483.322
+Iteration 260 / LogL: -1451.468 / Time: 0h:0m:13s (0h:0m:4s left)
+Iteration 270 / LogL: -1451.487 / Time: 0h:0m:13s (0h:0m:3s left)
+Iteration 280 / LogL: -1451.405 / Time: 0h:0m:14s (0h:0m:3s left)
+Iteration 290 / LogL: -1451.467 / Time: 0h:0m:14s (0h:0m:2s left)
+Iteration 300 / LogL: -1451.405 / Time: 0h:0m:15s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -1484.230
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+Iteration 310 / LogL: -1451.405 / Time: 0h:0m:16s (0h:0m:4s left)
+Iteration 320 / LogL: -1451.405 / Time: 0h:0m:16s (0h:0m:4s left)
+Iteration 330 / LogL: -1451.405 / Time: 0h:0m:17s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 336: -1451.405
+Iteration 340 / LogL: -1451.467 / Time: 0h:0m:17s (0h:0m:5s left)
+Iteration 350 / LogL: -1451.405 / Time: 0h:0m:18s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -1484.487
+Iteration 360 / LogL: -1453.724 / Time: 0h:0m:19s (0h:0m:4s left)
+Iteration 370 / LogL: -1451.405 / Time: 0h:0m:19s (0h:0m:3s left)
+Iteration 380 / LogL: -1451.467 / Time: 0h:0m:20s (0h:0m:2s left)
+Iteration 390 / LogL: -1451.405 / Time: 0h:0m:20s (0h:0m:2s left)
+Iteration 400 / LogL: -1451.405 / Time: 0h:0m:21s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -1484.512
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+Iteration 410 / LogL: -1471.305 / Time: 0h:0m:22s (0h:0m:4s left)
+Iteration 420 / LogL: -1451.468 / Time: 0h:0m:22s (0h:0m:4s left)
+Iteration 430 / LogL: -1451.468 / Time: 0h:0m:23s (0h:0m:3s left)
+TREE SEARCH COMPLETED AFTER 437 ITERATIONS / Time: 0h:0m:23s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -1451.405
+Optimal log-likelihood: -1451.405
+Rate parameters:  A-C: 1.00000  A-G: 2.61177  A-T: 1.00000  C-G: 1.00000  C-T: 2.61177  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.322
+Parameters optimization took 1 rounds (0.001 sec)
+BEST SCORE FOUND : -1451.405
+Creating bootstrap support values...
+Split supports printed to NEXUS file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex
+Total tree length: 0.468
+
+Total number of iterations: 437
+CPU time used for tree search: 23.472 sec (0h:0m:23s)
+Wall-clock time used for tree search: 23.518 sec (0h:0m:23s)
+Total CPU time used: 23.966 sec (0h:0m:23s)
+Total wall-clock time used: 24.013 sec (0h:0m:24s)
+
+Computing bootstrap consensus tree...
+Reading input file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex...
+38 taxa and 642 splits.
+Consensus tree written to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+Reading input trees file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+Log-likelihood of consensus tree: -1451.406
+
+Analysis results written to: 
+  IQ-TREE report:                /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.iqtree
+  Maximum-likelihood tree:       /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.treefile
+  Likelihood distances:          /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex
+  Consensus tree:                /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+  Screen log file:               /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.log
+
+Date and Time: Tue Dec  5 17:33:18 2023
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ figtree [7m'/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/a[27m[7ml[27m[7mineamiento_outgroup_SI.fasta.contree' [27m[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [C[C[C[C[C[C[C[C'/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree' 
+[?2004ljavax.swing.UIManager$LookAndFeelInfo[Metal javax.swing.plaf.metal.MetalLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[Nimbus javax.swing.plaf.nimbus.NimbusLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[CDE/Motif com.sun.java.swing.plaf.motif.MotifLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[GTK+ com.sun.java.swing.plaf.gtk.GTKLookAndFeel]
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ figtree '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree' [A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o "NC_028302.1_Le__n" -o "NC_016470.1_Puma"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K$(cat [7m'/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/outgroups.txt' [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/outgroups.txt' )
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o NC_028302.1_Le__n NC_016470.1_Puma
+Seed:    461384 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 17:42:23 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+Reading input tree file NC_016470.1_Puma ...ERROR: File not found or incorrect input, pls check it again.NC_016470.1_Puma
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o $(cat '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/outgroups.txt' )[Afigtree '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree' [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o "NC_028302.1_Le__n" -o "NC_016470.1_Puma"[3P"NC_016470.1_Puma"[Afigtree '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/al[61Pineamiento_outgroup_SI.fasta.contree' [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o "NC_028302.1_Le__n" "NC_016470.1_Puma"-o "NC_016470.1_Puma"[Afigtree '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/al[64Pineamiento_outgroup_SI.fasta.contree' [A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o $(cat '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/outgroups.txt' )[A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ciqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o $(cat '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/outgroups.txt' )[Afigtree '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree' [K[A]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o "NC_028302.1_Le__n" -o "NC_016470.1_Puma"[1P "NC_016470.1_Puma"[1P "NC_016470.1_Puma"[1P"NC_016470.1_Puma", "NC_016470.1_Puma"
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o NC_028302.1_Le__n, NC_016470.1_Puma
+Seed:    586278 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 17:47:48 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+ERROR: Alignment does not have specified outgroup taxon 
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o "NC_028302.1_Le__n", "NC_016470.1_Puma"[C[C[1P "NC_016470.1_Puma"[C "NC_016470.1_Puma"[1P"NC_016470.1_Puma"
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o NC_028302.1_Le__n NC_016470.1_Puma
+Seed:    99569 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 17:48:09 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+Reading input tree file NC_016470.1_Puma ...ERROR: File not found or incorrect input, pls check it again.NC_016470.1_Puma
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ iqtree -s '/home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta' -m  K2P+I -bb 10000 -redo -o "NC_028302.1_Le__n" "NC_016470.1_Puma"[1P"NC_016470.1_Puma","NC_016470.1_Puma"
+[?2004lIQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    william-f-chaparro-pico (AVX512, FMA3, 15 GB RAM)
+Command: iqtree -s /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta -m K2P+I -bb 10000 -redo -o NC_028302.1_Le__n,NC_016470.1_Puma
+Seed:    224179 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec  5 17:48:21 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 367 columns, 101 distinct patterns
+87 parsimony-informative, 35 singleton sites, 245 constant sites
+WARNING: Some sequence names are changed as follows:
+NC_028302.1_León -> NC_028302.1_Le__n
+MG230232.1_Nariño_Cat -> MG230232.1_Nari__o_Cat
+
+                        Gap/Ambiguity  Composition  p-value
+   1  NC_028302.1_Le__n         0.27%    passed     94.37%
+   2  MG230196.1                0.82%    passed     99.76%
+   3  MG230198.1                0.82%    passed     99.76%
+   4  MG230209.1                0.82%    passed     99.76%
+   5  MG230216.1                0.82%    passed     99.76%
+   6  MG230225.1                0.82%    passed     99.76%
+   7  MG230243.1                0.82%    passed     99.76%
+   8  MG230244.1                0.82%    passed     99.76%
+   9  MG230199.1                0.82%    passed     99.99%
+  10  MG230226.1                0.82%    passed     99.55%
+  11  MG230245.1                0.82%    passed     99.55%
+  12  MG230202.1                0.82%    passed     99.93%
+  13  MG230197.1                0.82%    passed     99.86%
+  14  MG230201.1                0.82%    passed     99.86%
+  15  MG230204.1                0.82%    passed     99.86%
+  16  MG230206.1                0.82%    passed     99.86%
+  17  MG230210.1                0.82%    passed     99.86%
+  18  MG230213.1                0.82%    passed     99.86%
+  19  MG230218.1                0.82%    passed     99.86%
+  20  MG230241.1                0.82%    passed     99.86%
+  21  MG230238.1                0.82%    passed     99.99%
+  22  MG230239.1                0.82%    passed     99.99%
+  23  MG230240.1                0.82%    passed     99.99%
+  24  MG230207.1                0.82%    passed     99.76%
+  25  MG230208.1                0.82%    passed     99.76%
+  26  MG230214.1                0.82%    passed     99.76%
+  27  MG230215.1                0.82%    passed     99.76%
+  28  MG230242.1                0.82%    passed     99.83%
+  29  MG230203.1                0.82%    passed     99.53%
+  30  MG230200.1                0.82%    passed     93.59%
+  31  MG230224.1                0.82%    passed     96.82%
+  32  MG230227.1                0.82%    passed     95.30%
+  33  MG230228.1                0.82%    passed     95.30%
+  34  MG230217.1                0.82%    passed     89.02%
+  35  MG230235.1                0.82%    passed     92.73%
+  36  MG230236.1                0.82%    passed     98.55%
+  37  MG230237.1                0.82%    passed     97.45%
+  38  MG230232.1_Nari__o_Cat    0.82%    passed     95.43%
+  39  MG230219.1                0.82%    passed     98.40%
+  40  MG230220.1                0.82%    passed     96.41%
+  41  MG230222.1                0.82%    passed     96.41%
+  42  MG230221.1                0.82%    passed     98.40%
+  43  MG230223.1                0.82%    passed     96.66%
+  44  MG230205.1                0.82%    passed     94.71%
+  45  MG230212.1                0.82%    passed     91.59%
+  46  MG230211.1                0.82%    passed     94.00%
+  47  NC_016470.1_Puma          0.27%    passed     99.25%
+  48  MG230229.1                0.82%    passed     37.64%
+  49  MG230230.1                0.82%    passed     70.61%
+  50  MG230231.1                0.82%    passed     78.82%
+  51  MG230233.1                0.82%    passed     79.00%
+  52  MG230234.1                0.82%    passed     79.00%
+****  TOTAL                     0.80%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MG230198.1 is identical to MG230196.1 but kept for subsequent analysis
+NOTE: MG230245.1 is identical to MG230226.1 but kept for subsequent analysis
+NOTE: MG230201.1 is identical to MG230197.1 but kept for subsequent analysis
+NOTE: MG230239.1 is identical to MG230238.1 but kept for subsequent analysis
+NOTE: MG230208.1 is identical to MG230207.1 but kept for subsequent analysis
+NOTE: MG230228.1 is identical to MG230227.1 but kept for subsequent analysis
+NOTE: MG230222.1 is identical to MG230220.1 but kept for subsequent analysis
+NOTE: MG230234.1 is identical to MG230233.1 but kept for subsequent analysis
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: MG230209.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230216.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230225.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230243.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230244.1 (identical to MG230196.1) is ignored but added at the end
+NOTE: MG230204.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230206.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230210.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230213.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230218.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230241.1 (identical to MG230197.1) is ignored but added at the end
+NOTE: MG230240.1 (identical to MG230238.1) is ignored but added at the end
+NOTE: MG230214.1 (identical to MG230207.1) is ignored but added at the end
+NOTE: MG230215.1 (identical to MG230207.1) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Generating 10000 samples for ultrafast bootstrap (seed: 224179)...
+
+NOTE: 4 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -1503.739
+2. Current log-likelihood: -1451.847
+Optimal log-likelihood: -1451.807
+Rate parameters:  A-C: 1.00000  A-G: 2.61126  A-T: 1.00000  C-G: 1.00000  C-T: 2.61126  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.322
+Parameters optimization took 2 rounds (0.003 sec)
+Computing ML distances based on estimated model parameters... 0.002 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -1457.527
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.059 second
+Computing log-likelihood of 98 initial trees ... 0.071 seconds
+Current best score: -1451.406
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -1451.406
+BETTER TREE FOUND at iteration 2: -1451.406
+BETTER TREE FOUND at iteration 4: -1451.406
+Iteration 10 / LogL: -1451.406 / Time: 0h:0m:0s
+BETTER TREE FOUND at iteration 13: -1451.406
+Iteration 20 / LogL: -1451.469 / Time: 0h:0m:0s
+Finish initializing candidate tree set (20)
+Current best tree score: -1451.406 / CPU time: 0.424
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -1451.406 / Time: 0h:0m:0s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 36: -1451.406
+Iteration 40 / LogL: -1451.406 / Time: 0h:0m:1s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 46: -1451.406
+BETTER TREE FOUND at iteration 50: -1451.406
+Iteration 50 / LogL: -1451.406 / Time: 0h:0m:1s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1477.235
+BETTER TREE FOUND at iteration 55: -1451.405
+Iteration 60 / LogL: -1451.406 / Time: 0h:0m:2s (0h:0m:4s left)
+Iteration 70 / LogL: -1453.727 / Time: 0h:0m:3s (0h:0m:3s left)
+Iteration 80 / LogL: -1455.823 / Time: 0h:0m:3s (0h:0m:3s left)
+Iteration 90 / LogL: -1451.468 / Time: 0h:0m:3s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 94: -1451.405
+Iteration 100 / LogL: -1453.727 / Time: 0h:0m:4s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -1479.403
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.964
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -1451.743 / Time: 0h:0m:5s (0h:0m:4s left)
+Iteration 120 / LogL: -1451.806 / Time: 0h:0m:5s (0h:0m:3s left)
+Iteration 130 / LogL: -1451.406 / Time: 0h:0m:6s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 135: -1451.405
+Iteration 140 / LogL: -1459.613 / Time: 0h:0m:6s (0h:0m:4s left)
+Iteration 150 / LogL: -1451.406 / Time: 0h:0m:6s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1480.318
+Iteration 160 / LogL: -1460.372 / Time: 0h:0m:7s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 169: -1451.405
+Iteration 170 / LogL: -1451.469 / Time: 0h:0m:8s (0h:0m:4s left)
+Iteration 180 / LogL: -1459.688 / Time: 0h:0m:8s (0h:0m:4s left)
+Iteration 190 / LogL: -1451.405 / Time: 0h:0m:9s (0h:0m:3s left)
+Iteration 200 / LogL: -1452.168 / Time: 0h:0m:9s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1480.773
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+Iteration 210 / LogL: -1451.405 / Time: 0h:0m:10s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 212: -1451.405
+Iteration 220 / LogL: -1451.468 / Time: 0h:0m:11s (0h:0m:4s left)
+Iteration 230 / LogL: -1576.479 / Time: 0h:0m:11s (0h:0m:4s left)
+Iteration 240 / LogL: -1451.469 / Time: 0h:0m:11s (0h:0m:3s left)
+Iteration 250 / LogL: -1451.405 / Time: 0h:0m:12s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1481.499
+Iteration 260 / LogL: -1451.743 / Time: 0h:0m:13s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 268: -1451.405
+Iteration 270 / LogL: -1451.467 / Time: 0h:0m:13s (0h:0m:5s left)
+Iteration 280 / LogL: -1451.405 / Time: 0h:0m:14s (0h:0m:4s left)
+Iteration 290 / LogL: -1458.481 / Time: 0h:0m:14s (0h:0m:3s left)
+Iteration 300 / LogL: -1451.467 / Time: 0h:0m:15s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -1481.623
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.995
+Iteration 310 / LogL: -1453.727 / Time: 0h:0m:16s (0h:0m:4s left)
+Iteration 320 / LogL: -1456.582 / Time: 0h:0m:16s (0h:0m:4s left)
+Iteration 330 / LogL: -1451.405 / Time: 0h:0m:17s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 334: -1451.405
+Iteration 340 / LogL: -1451.405 / Time: 0h:0m:17s (0h:0m:4s left)
+Iteration 350 / LogL: -1451.468 / Time: 0h:0m:18s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -1482.639
+Iteration 360 / LogL: -1451.806 / Time: 0h:0m:18s (0h:0m:3s left)
+Iteration 370 / LogL: -1451.468 / Time: 0h:0m:19s (0h:0m:3s left)
+Iteration 380 / LogL: -1451.468 / Time: 0h:0m:19s (0h:0m:2s left)
+Iteration 390 / LogL: -1453.726 / Time: 0h:0m:20s (0h:0m:2s left)
+Iteration 400 / LogL: -1451.405 / Time: 0h:0m:21s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -1482.639
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.995
+Iteration 410 / LogL: -1455.822 / Time: 0h:0m:21s (0h:0m:4s left)
+Iteration 420 / LogL: -1456.399 / Time: 0h:0m:22s (0h:0m:4s left)
+Iteration 430 / LogL: -1451.405 / Time: 0h:0m:22s (0h:0m:3s left)
+UPDATE BEST LOG-LIKELIHOOD: -1451.405
+TREE SEARCH COMPLETED AFTER 435 ITERATIONS / Time: 0h:0m:23s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -1451.405
+Optimal log-likelihood: -1451.405
+Rate parameters:  A-C: 1.00000  A-G: 2.61168  A-T: 1.00000  C-G: 1.00000  C-T: 2.61168  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.322
+Parameters optimization took 1 rounds (0.001 sec)
+BEST SCORE FOUND : -1451.405
+Creating bootstrap support values...
+Split supports printed to NEXUS file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex
+Total tree length: 0.468
+
+Total number of iterations: 435
+CPU time used for tree search: 23.105 sec (0h:0m:23s)
+Wall-clock time used for tree search: 23.159 sec (0h:0m:23s)
+Total CPU time used: 23.597 sec (0h:0m:23s)
+Total wall-clock time used: 23.651 sec (0h:0m:23s)
+
+Computing bootstrap consensus tree...
+Reading input file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex...
+38 taxa and 639 splits.
+Consensus tree written to /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+Reading input trees file /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+Log-likelihood of consensus tree: -1451.468
+
+Analysis results written to: 
+  IQ-TREE report:                /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.iqtree
+  Maximum-likelihood tree:       /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.treefile
+  Likelihood distances:          /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.splits.nex
+  Consensus tree:                /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.contree
+  Screen log file:               /home/usuario/Desktop/Analisis_Final/Secuencias del artículo/Outgroup/alineamiento_outgroup_SI.fasta.log
+
+Date and Time: Tue Dec  5 17:48:45 2023
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ figtree *. [Kconstree
+[?2004ljavax.swing.UIManager$LookAndFeelInfo[Metal javax.swing.plaf.metal.MetalLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[Nimbus javax.swing.plaf.nimbus.NimbusLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[CDE/Motif com.sun.java.swing.plaf.motif.MotifLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[GTK+ com.sun.java.swing.plaf.gtk.GTKLookAndFeel]
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ figtree *.constree[K[K[K[K[Ktree
+[?2004ljavax.swing.UIManager$LookAndFeelInfo[Metal javax.swing.plaf.metal.MetalLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[Nimbus javax.swing.plaf.nimbus.NimbusLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[CDE/Motif com.sun.java.swing.plaf.motif.MotifLookAndFeel]
+javax.swing.UIManager$LookAndFeelInfo[GTK+ com.sun.java.swing.plaf.gtk.GTKLookAndFeel]
+[?2004h]0;usuario@william-f-chaparro-pico: ~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[01;32musuario@william-f-chaparro-pico[00m:[01;34m~/Desktop/Analisis_Final/Secuencias del artículo/Outgroup[00m$ [?2004l
+exit
+
+Script done on 2023-12-05 17:51:58-05:00 [COMMAND_EXIT_CODE="0"]
